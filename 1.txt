@@ -1,0 +1,4 @@
+create folder open it through terminal 
+npx create-react-app _name - will take few minutes
+to enter in folder cd thn folder name
+to start initial project select 01 folder in integrated terminal - npm start & ctrl c to stop local development
